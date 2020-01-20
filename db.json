@@ -2,7 +2,16 @@
   "posts": [
     {
       "id": 1,
-      "timestamp": "1423840514446"
+      "timestamp": "1423840514446",
+      "account_id": "5790302441001", 
+      "event": "video ingestado en BC",
+      "video": "", 
+      "version": 0, 
+      "reference_id": "", 
+      "event_source": "brightcove-cms", 
+      "status": "success", 
+      "message":
+      
     }
   ],
   "profile": {
