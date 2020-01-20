@@ -1,6 +1,6 @@
 {
   "posts": [
-    
+    {
       "id": 5,
       "timestamp": "1423840514446",
       "account_id": "5790302441001", 
@@ -10,9 +10,9 @@
       "reference_id": "...", 
       "event_source": "brightcove-cms", 
       "status": "success", 
-      "message":"..."  
-    
-  ],
+      "message":"..."
+    }
+  ]
   "profile": {
     "name": "typicode"
   }
