@@ -1,9 +1,8 @@
 {
   "posts": [
     {
-      "timestamp": "1423840514446", 
-      "account_id": "5790302441001",
-      "event": "video ingestado en BC",
+      "id": 1,
+      "timestamp": "1423840514446"
     }
   ],
   "profile": {
