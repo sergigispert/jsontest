@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "id": 1, "timestamp": "1423840514446", // En formato Epoch
+    { 
+     "id": 1, "timestamp": "1423840514446", // En formato Epoch
      "account_id": "5790302441001", // Valor definido en la config de OVPtest
      "event": "video ingestado en BC", 
      "video": "", // El video_id tendría valor asignado una vez creado el vídeo en BC, mientras tanto estaría en blanco.
@@ -8,7 +9,8 @@
      "reference_id": "", // El ID de Bitban que pasan en el Description del XML
      "event_source": "brightcove-cms", 
      "status": "success"  // O "error" [o "warning" si no es crítico]
-     "message":""  }   
+     "message":""  
+    }   
   ],
   "profile": {
     "name": "typicode"
