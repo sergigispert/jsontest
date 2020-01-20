@@ -1,14 +1,14 @@
 {
   "posts": [
     { 
-     "id": 1, "timestamp": "1423840514446", // En formato Epoch
-     "account_id": "5790302441001", // Valor definido en la config de OVPtest
+     "id": 1, "timestamp": "1423840514446",
+     "account_id": "5790302441001", 
      "event": "video ingestado en BC", 
-     "video": "", // El video_id tendría valor asignado una vez creado el vídeo en BC, mientras tanto estaría en blanco.
-     "version": "0", // El campo version tendría valor asignado una vez creado el vídeo en BC.
-     "reference_id": "", // El ID de Bitban que pasan en el Description del XML
+     "video": "",
+     "version": "0", 
+     "reference_id": "", 
      "event_source": "brightcove-cms", 
-     "status": "success"  // O "error" [o "warning" si no es crítico]
+     "status": "success",  
      "message":""  
     }   
   ],
