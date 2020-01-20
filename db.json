@@ -10,11 +10,10 @@
       "reference_id": "", 
       "event_source": "brightcove-cms", 
       "status": "success", 
-      "message":""
-      
+      "message":""  
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "sergigispert"
   }
 }
