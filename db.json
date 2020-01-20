@@ -1,16 +1,14 @@
 {
   "posts": [
-    {
-      "id": 5,
-      "timestamp": "1423840514446",
-      "account_id": "5790302441001", 
-      "event": "video ingestado en BC",
-      "video": "...", 
-      "version": "0", 
-      "reference_id": "...", 
-      "event_source": "brightcove-cms", 
-      "status": "success", 
-      "message":"..."
-    }
+    { "id": 1, "timestamp": "1423840514446", "account_id": "5790302441001", "event": "video ingestado en BC", "video": "...", "version": "0", "reference_id": "...", "status": "success" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
