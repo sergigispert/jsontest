@@ -1,6 +1,10 @@
 {
   "posts": [
-    { "id": 1, "account_id": "775205503001", "event": "transcoding-wait" }
+    {
+      "timestamp": "1423840514446", 
+      "account_id": "5790302441001",
+      "event": "video ingestado en BC",
+    }
   ],
   "profile": {
     "name": "typicode"
